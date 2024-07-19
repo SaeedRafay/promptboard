@@ -24,8 +24,8 @@ const Nav = () => {
         <Image
           src='/assets/images/logo.svg'
           alt='logo'
-          width={30}
-          height={30}
+          width={40}
+          height={40}
           className='object-contain'
         />
         <p className='logo_text'>Promptboard</p>
